@@ -1,6 +1,8 @@
 -TO Run the script use npm run build
 -Deployment on netlify
 https://evotech-page.netlify.app
+- Implemented Scss to amke css loading faster.
+- Tried toamke page Responsive on various devices.
 
 # React + Vite
 
