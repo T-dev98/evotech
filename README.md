@@ -1,3 +1,7 @@
+-TO Run the script use npm run build
+-Deployment on netlify
+https://evotech-page.netlify.app
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
